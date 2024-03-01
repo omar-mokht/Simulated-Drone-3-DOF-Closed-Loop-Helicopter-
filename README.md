@@ -7,7 +7,7 @@ This is an implementation of a full advanced 3-DOF feedback system with a simula
 Started with a Dashboard:
 ![alt text](Dashboard.png)
 
-Then built and tested an Open Loop Controller on Simulink:
+Then built and tested an Open Loop Controller on LabVIEW:
 
 <img width="543" alt="image" src="https://github.com/omar-mokht/Hardware-in-the-Loop-Rapid-Control-Prototyping/assets/111816253/ebd20fdd-dcf8-4f18-b5db-30900310fcd9">
 
