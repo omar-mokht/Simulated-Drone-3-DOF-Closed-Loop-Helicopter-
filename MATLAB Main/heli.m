@@ -2,7 +2,6 @@
 %% heli.m
 %% Matlab script to be run before Simulink files
 %% ACS336 / ACS6336 / ACS6110
-%% Last revised: 23.02.2015
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 close all;      % close all figures
